@@ -1,0 +1,2 @@
+# 忽略检查点文件
+*.ipynb_checkpoints
